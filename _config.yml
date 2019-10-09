@@ -1,21 +1,42 @@
-title: Sergey Barseghyan # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-baseurl: ""
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: 
+author: GitHub User
 email: sergey.barseghyan06@gmail.com
-github_username: scaevola96
-  <br>Theoretical physicist<br>
+description: > # this means to ignore newlines until "show_exerpts:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+show_excerpts: true # set to true to show excerpts on the homepage
+baseurl: /texture
 
-  <br><br>
-  <a href="https://www.linkedin.com/in/sergey-barseghyan-398a69125/">View My LinkedIn Profile</a> 
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+sass:
+  sass_dir: _sass
+
+permalink: /posts/:title/
+texture:
+  title: Sergey Barseghyan
+  tagline: Theoretical Physicist. Quant
+  date_format: "%b %-d, %Y"
+  style: black
+  showNav: false
+  showPicker: true
+
+  # generate social links in footer
+  social_links:
+    github:  scaevola96
+    linkedIn: https://www.linkedin.com/in/sergey-barseghyan-398a69125/
   
-# theme: jekyll-theme-minimal
-remote_theme: fongandrew/hydeout
-markdown: kramdown
+ 
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+# theme: texture
 
 plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-remote-theme
-
+  - jekyll-seo-tag
+#  - jekyll-feed
