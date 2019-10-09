@@ -1,25 +1,17 @@
-## Portfolio
-
----
-
 ### Work 
 
 [Theoretics Physics](/sample_page)
 <img src="images/theorphys.jpg?raw=true"/>
-- [Project 1 Title](http://example.com/)
+- [Theoretical Physics](http://example.com/)
 ---
 [Yandex Data Analysis Scool](/pdf/sample_presentation.pdf)
- <img src="images/dummy_thumbnail.jpeg?raw=true"/>
-- [Project 2 Title](http://example.com/)
+ <img src="images/datascience.jpeg?raw=true"/>
+- [Data Science](http://example.com/)
 ---
 [Quantitative Finance](http://example.com/)
 <img src="images/quantfin.jpeg?raw=true"/>
-
+- [Data Science](http://example.com/)
 ---
-
-### Category Name 2
-
-
 
 
 ---
