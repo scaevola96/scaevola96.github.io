@@ -2,28 +2,25 @@
 
 ---
 
-### Category Name 1 
+### Work 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Theoretics Physics](/sample_page)
+<img src="images/theorphys.jpg?raw=true"/>
+- [Project 1 Title](http://example.com/)
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Yandex Data Analysis Scool](/pdf/sample_presentation.pdf)
+ <img src="images/dummy_thumbnail.jpeg?raw=true"/>
+- [Project 2 Title](http://example.com/)
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Quantitative Finance](http://example.com/)
+<img src="images/quantfin.jpeg?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
+
 
 ---
 
