@@ -1,10 +1,8 @@
-title: 
+title: Sergey Barseghyan
 author: GitHub User
 email: sergey.barseghyan06@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Theoretical Physicist
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: /texture
 
@@ -18,8 +16,8 @@ texture:
   title: Sergey Barseghyan
   tagline: Theoretical Physicist. Quant
   date_format: "%b %-d, %Y"
-  style: black
-  showNav: false
+  style: minimal
+  showNav: true
   showPicker: true
 
   # generate social links in footer
